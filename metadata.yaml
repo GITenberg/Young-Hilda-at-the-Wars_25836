@@ -1,0 +1,33 @@
+_repo: Young-Hilda-at-the-Wars_25836
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25836-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gleason, Arthur
+    alias: Gleason, Arthur Huntington
+    birthdate: 1878
+    deathdate: 1923
+    gutenberg_agent_id: '8493'
+    url: http://www.gutenberg.org/2009/agents/8493
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25836'
+  lccn: '15019619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Belgium'
+tableOfContents: Young Hilda at the wars -- The ribbons that stuck in his coat --
+  Rollo, the Apollo -- The piano of Peroyse -- War -- The chevalier -- The American
+  -- The war baby.
+title: Young Hilda at the Wars
+url: http://www.gutenberg.org/ebooks/25836
